@@ -1,2 +1,3 @@
 # MLOps-1
-a machine learning model using the Gradio library to create a user interface
+This Python project uses Gradio to construct a user-friendly web interface for image classification. It employs a pre-trained ResNet-18 model, known for its efficiency and accuracy, to analyze uploaded images and provide informative predictions.
+
